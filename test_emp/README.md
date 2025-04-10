@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-# Axajah
-IT Seneior project 
-
-# flutter_application_20
+# test_emp
 
 A new Flutter project.
-مجرد تجربه فقط لا اكثر 
 
 ## Getting Started
 
@@ -19,4 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
->>>>>>> 9063577 (commit)
